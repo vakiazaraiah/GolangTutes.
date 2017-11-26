@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="411222e0-b9b5-4331-86f7-2ee0624e9968" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GolangTutes..iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Arithmetric Operations Golang.go" afterPath="$PROJECT_DIR$/Arithmetric Operations Golang.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Conts,strings,booleans,printif.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dictionaries/azaraiahvaki.xml" afterPath="$PROJECT_DIR$/.idea/dictionaries/azaraiahvaki.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,13 +16,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Arithmetric Operations Golang.go" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Arithmetric Operations Golang.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Arithmetric Operations Golang.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+            <state relative-caret-position="195">
+              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
               <folding>
                 <element signature="e#14#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Conts,strings,booleans,printif.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Conts,strings,booleans,printif.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding>
+                <element signature="e#14#32#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -66,6 +75,7 @@
       <list>
         <option value="$PROJECT_DIR$/Fundamentals..go" />
         <option value="$PROJECT_DIR$/Arithmetric Operations Golang.go" />
+        <option value="$PROJECT_DIR$/Conts,strings,booleans,printif.go" />
       </list>
     </option>
   </component>
@@ -78,7 +88,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="1" />
     <option name="y" value="23" />
-    <option name="width" value="813" />
+    <option name="width" value="1530" />
     <option name="height" value="999" />
   </component>
   <component name="ProjectView">
@@ -132,13 +142,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Application.Arithmetric Operations Golang.go">
+  <component name="RunManager" selected="Go Application.Conts,strings,booleans,printif.go">
     <configuration name="Arithmetric Operations Golang.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
       <module name="GolangTutes." />
       <working_directory value="$PROJECT_DIR$" />
       <go_parameters value="-i" />
       <kind value="FILE" />
       <filePath value="$PROJECT_DIR$/Arithmetric Operations Golang.go" />
+      <directory value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="Conts,strings,booleans,printif.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <module name="GolangTutes." />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/Conts,strings,booleans,printif.go" />
       <directory value="$PROJECT_DIR$" />
     </configuration>
     <configuration name="Fundamentals..go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
@@ -245,14 +263,16 @@
       <properties />
       <listeners />
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Go Application.Fundamentals..go" />
       <item index="1" class="java.lang.String" itemvalue="Go Application.Arithmetric Operations Golang.go" />
+      <item index="2" class="java.lang.String" itemvalue="Go Application.Conts,strings,booleans,printif.go" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Go Application.Arithmetric Operations Golang.go" />
-        <item index="1" class="java.lang.String" itemvalue="Go Application.Fundamentals..go" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Go Application.Conts,strings,booleans,printif.go" />
+        <item index="1" class="java.lang.String" itemvalue="Go Application.Arithmetric Operations Golang.go" />
+        <item index="2" class="java.lang.String" itemvalue="Go Application.Fundamentals..go" />
       </list>
     </recent_temporary>
   </component>
@@ -266,7 +286,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1511665725373</updated>
-      <workItem from="1511665733083" duration="3694000" />
+      <workItem from="1511665733083" duration="6127000" />
     </task>
     <task id="LOCAL-00001" summary="Fundamentals on variables and structure of main function FIXED">
       <created>1511668244753</created>
@@ -286,7 +306,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3694000" />
+    <option name="totallyTimeSpent" value="6127000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -298,7 +318,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="23" width="813" height="999" extended-state="0" />
+    <frame x="1" y="23" width="1530" height="999" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32964602" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -308,12 +329,12 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32964602" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5165929" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32964602" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32964602" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.44800884" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3216602" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16666667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -412,10 +433,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Arithmetric Operations Golang.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        <state relative-caret-position="195">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding>
             <element signature="e#14#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Conts,strings,booleans,printif.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="e#14#32#0" expanded="true" />
           </folding>
         </state>
       </provider>
