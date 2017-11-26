@@ -16,7 +16,7 @@ Multi line comment.
 //The main function starts with 'func' and is opened and closed with {}
 //When executing a program main is the backbone for everything.
 
-func main (){
+func main() {
 	println("Hello world")
 	// You can get a description of a function by typing godoc fmt Println
 	// for example in the terminal
@@ -45,7 +45,6 @@ func main (){
 
 	var favNum float64 = 0.69
 
-
 	oldAge := 56
 
 	fmt.Println(oldAge)
@@ -53,8 +52,6 @@ func main (){
 	//You cannot assign a non-compatible type later.
 	//Example randNum = "Hello"
 
-
 	fmt.Println(age, " ", favNum)
-
 
 }
